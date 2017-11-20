@@ -2,7 +2,7 @@
 
 Normal size:
 
-<img src="cat.jpg>
+<img src="cat.jpg">
 
 With: 100 pixels
 
