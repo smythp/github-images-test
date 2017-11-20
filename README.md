@@ -8,13 +8,13 @@ Normal size:
 
 With: 100 pixels
 
-    <img src="cat.jpg">
+    <img src="cat.jpg" width=100>
 
 <img src="cat.jpg" width=100>
 
 With: 100 pixels
 Height: 300 pixels
 
-    <img src="cat.jpg">
+	<img src="cat.jpg" width=100 height=300>
 
 <img src="cat.jpg" width=100 height=300>
